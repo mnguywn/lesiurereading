@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/leisurereading/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/leisurereading/static/js/main.16acfd28.chunk.js",
-    "main.js.map": "/leisurereading/static/js/main.16acfd28.chunk.js.map",
-    "runtime-main.js": "/leisurereading/static/js/runtime-main.45becab4.js",
-    "runtime-main.js.map": "/leisurereading/static/js/runtime-main.45becab4.js.map",
-    "static/js/2.609ac99d.chunk.js": "/leisurereading/static/js/2.609ac99d.chunk.js",
-    "static/js/2.609ac99d.chunk.js.map": "/leisurereading/static/js/2.609ac99d.chunk.js.map",
-    "index.html": "/leisurereading/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/leisurereading/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.609ac99d.chunk.js.LICENSE.txt": "/leisurereading/static/js/2.609ac99d.chunk.js.LICENSE.txt"
+    "main.css": "/lesiurereading/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/lesiurereading/static/js/main.16acfd28.chunk.js",
+    "main.js.map": "/lesiurereading/static/js/main.16acfd28.chunk.js.map",
+    "runtime-main.js": "/lesiurereading/static/js/runtime-main.67a711ad.js",
+    "runtime-main.js.map": "/lesiurereading/static/js/runtime-main.67a711ad.js.map",
+    "static/js/2.609ac99d.chunk.js": "/lesiurereading/static/js/2.609ac99d.chunk.js",
+    "static/js/2.609ac99d.chunk.js.map": "/lesiurereading/static/js/2.609ac99d.chunk.js.map",
+    "index.html": "/lesiurereading/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/lesiurereading/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.609ac99d.chunk.js.LICENSE.txt": "/lesiurereading/static/js/2.609ac99d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.45becab4.js",
+    "static/js/runtime-main.67a711ad.js",
     "static/js/2.609ac99d.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.16acfd28.chunk.js"
