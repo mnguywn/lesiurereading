@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lesiurereading/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/lesiurereading/static/js/main.16acfd28.chunk.js",
-    "main.js.map": "/lesiurereading/static/js/main.16acfd28.chunk.js.map",
+    "main.js": "/lesiurereading/static/js/main.f8293301.chunk.js",
+    "main.js.map": "/lesiurereading/static/js/main.f8293301.chunk.js.map",
     "runtime-main.js": "/lesiurereading/static/js/runtime-main.67a711ad.js",
     "runtime-main.js.map": "/lesiurereading/static/js/runtime-main.67a711ad.js.map",
     "static/js/2.609ac99d.chunk.js": "/lesiurereading/static/js/2.609ac99d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.67a711ad.js",
     "static/js/2.609ac99d.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.16acfd28.chunk.js"
+    "static/js/main.f8293301.chunk.js"
   ]
 }
